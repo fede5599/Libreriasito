@@ -1,0 +1,16 @@
+h6 {
+    margin: 5px;
+    font-size: 15px;
+    color: rgb(58, 23, 114);
+}
+.sottotitolo{
+    padding-top: 5rem;
+    text-align: center;
+    color: rgb(58, 23, 114);
+    margin-bottom: 70px;
+}
+.border:hover {
+    background-color:rgb(189, 189, 189); 
+    transform: scale(1.02);  
+    border-color: rgb(139, 139, 139);
+}
